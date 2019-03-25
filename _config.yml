@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tony's Blog"
+title                    : "Tony's Tribe"
 title_separator          : "-"
 name                     : "Tony Wu"
 description              : "Learning Journey From Entry Level to Higher"
@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Tony Wu"
-  avatar           : "/assets/images/avatar.png"
+  avatar           : "/assets/avatar.png"
   bio              : "Graduate Developer. Keep Learning. Keep Hunger."
   location         : "Melbourne, AU"
   email            : "twuu1992@gmail.com"
@@ -142,7 +142,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:  "https://github.com/twuu0012"
+      url:  "https://github.com/twuu0012"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url: "https://github.com/twuu0012"
