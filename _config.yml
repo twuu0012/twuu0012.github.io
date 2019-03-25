@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Tony Wu"
-  avatar           : "/assets/avatar.png"
+  avatar           : "/assets/images/avatar.png"
   bio              : "Graduate Developer. Keep Learning. Keep Hunger."
   location         : "Melbourne, AU"
   email            : "twuu1992@gmail.com"
